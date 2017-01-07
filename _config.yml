@@ -2,7 +2,7 @@
 title: Blog About Gin - Weg Developer
 description: "A blog about Gin ..."
 baseurl: "" #"/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
-url: "https://gin.agfarchiv.de" # for test: remove string 'https://gin.agfarchiv.de' to '' but in production: 'https:yourusername.githu.io'
+url: "https://bob.agfarchiv.de" # for test: remove string 'https://bob.agfarchiv.de' to '' but in production: 'https:yourusername.githu.io'
 # User settings
 username: chezafk
 user_title: Fixin it with Soos - FrontEnd
