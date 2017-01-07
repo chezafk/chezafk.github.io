@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Kaffee+Orange"
+image: ''
+date:   2017-01-03 00:06:31
+tags:
+- Kaffee
+- Orange 
+description: ''
+categories:
+- Gin
+serie: gin
+---
+
+```
+10g Orangenschale
+6g / 1x Espresso Leggero
+6g / 1x Espresso Forte
+2.5x tsp Wacholder
+189g / 239ml Hardenberg Weizenkorn
+```
+
+* nach 24m56s
+* 74g / 93.67ml Destillat
+* + ???g Wasser
+* = 44% Alk.

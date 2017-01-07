@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Kaffee+Kakao"
+image: ''
+date:   2017-01-06 00:06:31
+tags:
+- Kaffee
+- Kakao
+- Orange 
+- Zimt
+description: ''
+categories:
+- Gin
+serie: gin
+---
+
+
+```
+1TL Kakonibs
+1/2TL Kaffee
+1/2TL Zimt
+1/2TL Orangenschale
+1/2TL Wacholder
+200ml Hardenberg Weizenkorn
+```
+* Begin: 11:22
+* Destillat: 11:30
+* Stop: 11:43
+* 56g Destillat
+* +20g Wasser
+* +21ml Wasser
+* = 43% Vol. Alkohol

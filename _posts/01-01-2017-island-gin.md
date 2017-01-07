@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Island Moos"
+image: ''
+date:   2017-01-01 00:06:31
+tags:
+- Angelica
+- Moos
+- Minze
+description: ''
+categories:
+- Gin
+serie: gin
+---
+
+* gleicher Aufbau
+
+```
+1TL getrockneter Thymian
+1/2 TL Pfeffer(schwarz)
+1EL Island Tee(Birke/Angelica/Moos)
+1TL Minze
+1TL Wacholder
+250ml Hardenberg Weizenkorn
+```
+* nach 25 Minuten
+* 99g Destillat
+* +30ml island Wasser
+* 50% Vol. Alkohol
+* +21ml Wasser
+* = 43% Vol. Alkohol

@@ -1,0 +1,47 @@
+# Site settings
+title: Blog About Gin - Weg Developer
+description: "A blog about Gin ..."
+baseurl: "" #"/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+# User settings
+username: chezafk
+user_title: Fixin it with Soos - FrontEnd
+email: lorem.lorem@ipsum.com
+twitter_username: chezafk
+github_username:  chezafk
+gplus_username:  chezafk
+disqus_username: chezafk
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+    
+# projects in header index
+projects:
+  - name: Gin
+    url: /series/
+  - name: Coming Soon
+    url: 
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

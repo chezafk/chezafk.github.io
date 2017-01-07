@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Koriander+Salbei"
+image: ''
+date:   2017-01-03 00:06:31
+tags:
+- Koriander
+- Salbei
+description: ''
+categories:
+- Gin
+serie: 
+---
+
+
+```
+5g Koriander
+5g Salbei
+1tsp Wacholder
+184g / 232ml Hardenberg Weizenkorn
+```
+
+* nach 25m42s 
+* 73g / 92.41ml Destillat
+* +55g Wasser
+* = 128g @ 39% Vol. Alkohol
