@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "verschiedene teesorten"
+title:  "Verschiedene Teesorten"
 image: ''
 date:   2017-01-08 00:10:50
 tags:
