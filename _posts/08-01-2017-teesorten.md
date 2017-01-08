@@ -34,5 +34,5 @@ serie: gin
 * Destillat: 10:37
 * Stop: 10:54
 * 74g Destillat
-* +??g Wasser
-* = ?? Vol. Alkohol
+* +31g Wasser
+* = 106g @ 44.5% Vol. Alkohol
