@@ -21,7 +21,7 @@ serie: gin
 1/2tsp 'Christmas in Afrika' Rooibus Tee
 1/2tsp Rooibus Karamell
 1/2tsp Rooibus Trueffel
-1/2tsp Rooibus, Orange Packung, Label unlesbar
+1/2tsp Schwarzer Tee mit Wildkirsche
 1 Beutel Mango+Strawberry Tee
 1 Beutel Pfirsich+Maracuja Tee
 1tsp Nana Minze Tee
