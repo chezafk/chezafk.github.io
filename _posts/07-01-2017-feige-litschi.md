@@ -27,6 +27,6 @@ serie: gin
 114g Hardenberg Weizenkorn
 ```
 * 14m56s
-* ??g Destillat
-* +??g Wasser
-* = ?? Vol. Alkohol
+* 43g Destillat
+* +23g Wasser
+* = 66g @ 43% Vol. Alkohol
