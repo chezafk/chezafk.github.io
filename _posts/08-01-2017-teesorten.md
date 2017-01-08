@@ -29,10 +29,10 @@ serie: gin
 2tsp Wacholder
 173g Hardenberg Weizenkorn
 ```
-* XXmXXs
+* 24m20s
 * Start: 10:30
 * Destillat: 10:37
-* Stop:
+* Stop: 10:54
 * ??g Destillat
 * +??g Wasser
 * = ?? Vol. Alkohol
