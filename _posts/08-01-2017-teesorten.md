@@ -33,6 +33,6 @@ serie: gin
 * Start: 10:30
 * Destillat: 10:37
 * Stop: 10:54
-* ??g Destillat
+* 74g Destillat
 * +??g Wasser
 * = ?? Vol. Alkohol
